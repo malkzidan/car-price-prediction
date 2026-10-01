@@ -1,5 +1,3 @@
-markdown
-
 <div align="center">
 
 # 🚗 Car Price Prediction
@@ -42,12 +40,12 @@ An end-to-end ML project that:
 ````bash
 pip install -r requirements.txt
 streamlit run app.py
-Open: http://localhost:8501
+Then open: http://localhost:8501
 
 🐳 Run with Docker
 bash
 docker run -p 8501:8501 malakzidan/car-price-app:v1
-Open: http://localhost:8501
+Then open: http://localhost:8501
 
 Docker Hub: malakzidan/car-price-app
 
