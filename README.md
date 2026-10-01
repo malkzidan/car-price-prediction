@@ -171,7 +171,7 @@ using Logistic Regression.
 🎓 Computer Science Student
 📊 Data Analyst & AI Enthusiast
 
-* 🔗 [GitHub](https://github.com/malakzidan)
+* 🔗 [GitHub](https://github.com/malkzidan)
 * 🐳 [Docker Hub](https://hub.docker.com/u/malakzidan)
 * 💼 [LinkedIn](https://www.linkedin.com/)
 
