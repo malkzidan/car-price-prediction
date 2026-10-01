@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+notebooks/
+.git/
+.gitignore
+.venv/
+venv/
+env/
+*.md
+README.md
+.streamlit/
+.vscode/
+.idea/
+*.log
+.DS_Stores
